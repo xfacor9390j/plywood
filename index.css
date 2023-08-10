@@ -10,3 +10,43 @@
 .image2{
     width: 98.7vw;
 }
+.image3{
+    width: 98.7vw;
+    height: 100vh;
+}
+.image4{
+    width: 98.7vw;
+    height: 100vh;
+}
+.image5{
+    width: 98.7vw;
+    height: 100vh;
+}
+@media  screen and (max-width:450px) {
+    .image1{
+        width: 100vw;
+        height: 300px;
+       
+    }
+    .image2{
+        width: 100vw;
+        height: 350px;
+       
+    }
+    .image3{
+        width: 100vw;
+        height: 200px;
+       
+    }
+    .image4{
+        width: 100vw;
+        height: 200px;
+       
+    }
+    .image5{
+        width: 100vw;
+        height: 250px;
+       
+    }
+    
+}
