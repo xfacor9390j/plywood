@@ -284,14 +284,16 @@
   
    .image-one{
     width: 100%;
+    height: 50vh;
    }
    .section-two{
     width: 100%;
-    height: 70vh;
+    height: 40vh;
    }
    .PLYWOOD{
     font-size: 4rem;
     top:180px ;
+    left: 70px;
    }
    .nagaland{
     color: white;
@@ -308,7 +310,7 @@
    }
    .color{
     width: 100%;
-    height: 90vh;
+    height: 45vh;
    }
    .brown-para{
     width: 100%;
@@ -345,7 +347,7 @@
    }
    .wooden{
     width: 100%;
-    height: 150vh;
+    height: 75vh;
    }
    .wood-head{
     font-size: 2rem;
@@ -374,13 +376,13 @@
     height: 100px;
    }
    .yellow{
-    height: 100vh;
+    height: 50vh;
     width: 100%;
-    margin-top: 160px;
+    margin-top: -212px;
 
    }
    .yellow-h1{
-    margin-top: 110px;
+    margin-top: 50px;
    font-size: 1.5rem;
    }
    .img-and-text{
@@ -429,7 +431,11 @@
    }
    .moment-name-left{
     font-size: 1em;
+    padding-left:50px ;
    }
+  .bedroom{
+    height: 50vh;
+  }
    .moment-left-para{
     margin-top: 5px;
     font-size: 0.7em;
