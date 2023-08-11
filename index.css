@@ -322,6 +322,7 @@
     font-size: 1rem;
     padding: 20px;
     margin: 0;
+    padding-left: 10px;
     padding-top: 50px;
     
     
@@ -351,7 +352,7 @@
    }
    .wood-head{
     font-size: 2rem;
-    left: 70px;
+    left: 60px;
    }
    .text-container{
     width: 340px;
