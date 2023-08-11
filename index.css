@@ -177,7 +177,8 @@
 }
 .yellow{
     margin-top: 148px;
-    background-color: yellow;
+    background-color: #FDDB60;
+    ;
     width: 100%;
     height: 100vh;
 
@@ -276,7 +277,7 @@
     margin-top: 20px;
     margin-left:100px ;
 }
-@media screen and (max-width:500px){
+@media screen and (max-width:900px){
     *{
         margin: 0;
         padding: 0;
@@ -299,8 +300,8 @@
    }
    .nagaland{
     color: white;
-    left:30%;
-    top: 30px;
+    left:26%;
+    top: 25px;
     font-size: 1rem;
    
    }
@@ -313,6 +314,9 @@
    .color{
     width: 100%;
     height: 45vh;
+   }
+   .date-container{
+    margin-top: -30px;
    }
    .brown-para{
     width: 100%;
@@ -402,6 +406,12 @@
     margin-top: 90px;
 
    }
+   .bedroom-container{
+    width: 100%;
+    height: 50vh;
+    /* opacity: 0; */
+  
+}
    .yellow-para{
     line-height: 1.1;
     font-size: 1em;
