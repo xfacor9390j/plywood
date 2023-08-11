@@ -293,7 +293,7 @@
    .PLYWOOD{
     font-size: 4rem;
     top:180px ;
-    left: 70px;
+    left: 50px;
    }
    .nagaland{
     color: white;
@@ -338,7 +338,7 @@
    .sign{
     font-size: 0.8rem;
     top: 300px;
-    left: 160px;
+    left: 130px;
    }
    .wood{
     height: 100vh;
@@ -347,16 +347,16 @@
    }
    .wooden{
     width: 100%;
-    height: 75vh;
+    height: 100vh;
    }
    .wood-head{
     font-size: 2rem;
-    left: 100px;
+    left: 70px;
    }
    .text-container{
-    width: 400px;
+    width: 300px;
     left: 25px;
-    height: 400px;
+    height: 570px;
     top: 120px;
 
 
@@ -366,19 +366,19 @@
     padding-top:30px ;
    }
    .bed{
-    top: 520px;
+    top: 700px;
     width: 100px;
     height: 100px;
    }
    .table{
-    top: 520px;
+    top: 700px;
     width: 100px;
     height: 100px;
    }
    .yellow{
-    height: 50vh;
+    height: 60vh;
     width: 100%;
-    margin-top: -212px;
+    margin-top: -100px;
 
    }
    .yellow-h1{
@@ -396,13 +396,14 @@
    .pentagon{
     height: 120px;
     margin-left: 0;
-    margin-top: 50px;
+    margin-top: 90px;
 
    }
    .yellow-para{
-    line-height: 1.2;
+    line-height: 1.1;
     font-size: 1em;
     margin-left: 10px;
+    margin-top: 40px;
 
    }
    .highlight{
@@ -422,7 +423,7 @@
     
     height: 100px;
     left: 20px;
-    width: 400px;
+    width: 350px;
     top: 370px;
    }
    .moment-left{
@@ -439,7 +440,7 @@
    .moment-left-para{
     margin-top: 5px;
     font-size: 0.7em;
-    width: 240px;
+    width: 200px;
    }
    .right-date{
     margin-left: 50px;
