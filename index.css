@@ -277,7 +277,7 @@
     margin-top: 20px;
     margin-left:100px ;
 }
-@media screen and (max-width:900px){
+@media screen and (max-width:500px){
     *{
         margin: 0;
         padding: 0;
@@ -371,7 +371,7 @@
 
    }
    .text-in-container{
-    line-height: 1.2;
+    line-height: 1.7;
     padding-top:30px ;
    }
    .bed{
@@ -469,4 +469,8 @@
    }
 
  
+}
+@media screen and (min-width:350px){
+
+
 }
