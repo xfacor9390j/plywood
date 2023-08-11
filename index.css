@@ -225,6 +225,7 @@
     display: flex;
     justify-content: center;
     padding-top: 20px;
+    border-radius: 10px;
 }
 .highlight-h1{
     color: white;
@@ -247,6 +248,7 @@
     position: absolute;
     top: 500px;
     left: 290px;
+    border-radius: 10px;
    
     display: flex;
 }
@@ -266,7 +268,7 @@
 }
 .right-date{
     color: white;
-    margin-top: 70px;
+    margin-top: 40px;
     margin-left:150px ;
 }
 .right-place{
